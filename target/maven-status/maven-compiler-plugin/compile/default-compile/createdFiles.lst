@@ -1,0 +1,10 @@
+model\WatermarkOptions.class
+model\Position.class
+service\ExifService.class
+PhotoWatermarkApplication$1.class
+util\FileUtils.class
+service\WatermarkService.class
+PhotoWatermarkApplication$ParsedArguments.class
+PhotoWatermarkApplication.class
+service\WatermarkService$1.class
+PhotoWatermarkApplication$CommandLineParser.class
